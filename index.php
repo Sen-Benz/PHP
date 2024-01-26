@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html>go
 <html>
 <body>
 
@@ -13,7 +13,7 @@ $y = 10;
 echo $x + $y . "<br>";
 echo $x + $y;
 ?>
-
+#PHP Philippine Peso
 <?php
 echo "<h2>PHP is Fun!</h2>";
 echo "Hello world!<br>";
